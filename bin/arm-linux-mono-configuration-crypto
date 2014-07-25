@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /usr/local/bin/mono $MONO_OPTIONS /usr/local/lib/mono/mono-configuration-crypto/2.0/mono-configuration-crypto.exe "$@"
